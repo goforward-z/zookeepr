@@ -153,6 +153,24 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "dodo",
+      "species": "tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "17"
     }
   ]
 }
