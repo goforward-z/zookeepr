@@ -171,6 +171,15 @@
         "loving"
       ],
       "id": "17"
+    },
+    {
+      "name": "dodo",
+      "species": "tiger",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "18"
     }
   ]
 }
